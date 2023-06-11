@@ -123,10 +123,14 @@ def run_personality_test():
 
     if total_score < 50:
 
-        print("Based on your score, you may have an inclination towards a particular area of interest.")
+        print("Based on your score, you may have an inclination towards an art career.")
 
     elif 50 <= total_score < 70:
 
-        print("Based on your score, you may have an inclination towards a different area of interest.")
+        print("Based on your score, you may have an inclination towards a philosophical career .")
 
-    elif total_score
+    elif total_score >= 70:
+
+        print("Based on your score, you may have an inclination towards a science course.")
+
+run_personality_test()
