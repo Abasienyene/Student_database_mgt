@@ -9,47 +9,47 @@ def run_personality_test():
 
         "Did you hate any of the science subjects?",
 
-        "How often did you attend science classes?",
+        "did you used to attend science classes in school?",
 
-        "How did you like your teacher?",
+        "did you like your teachers?",
 
         "Are you naturally curious about the world around you?",
 
         "Do you enjoy solving puzzles or brain teasers?",
 
-        "How comfortable are you with abstract or theoretical concepts?",
+        "Are you comfortable with abstract or theoretical concepts?",
 
         "Are you detail-oriented and meticulous in your work?",
 
-        "How comfortable are you with public speaking or presenting information to others?",
+        "are you comfortable with public speaking or presenting information to others?",
 
         "Are you a natural leader and enjoy taking charge of projects or teams?",
 
-        "How well do you adapt to new situations or changes?",
+        "do you adapt to new situations or changes?",
 
         "Do you enjoy working independently or as part of a team?",
 
         "Are you patient and persistent when faced with challenges?",
 
-        "How well do you handle stress and pressure?",
+        "Do you handle stress and pressure effectively?",
 
-        "How much do you enjoy expressing yourself through creative outlets?",
+        "do you enjoy expressing yourself through creative outlets?",
 
         "Are you naturally drawn to visual aesthetics and design?",
 
-        "How comfortable are you with experimenting and trying out new artistic techniques?",
+        "Are you comfortable with experimenting and trying out new artistic techniques?",
 
         "Do you enjoy visiting art galleries and exhibitions?",
 
-        "How often do you engage in artistic activities during your free time?",
+        "Do you engage in artistic activities during your free time?",
 
         "Are you passionate about storytelling and conveying emotions through art?",
 
-        "How comfortable are you with thinking outside the box and embracing unconventional ideas?",
+        "Do you often find yourself thinking outside the box and embracing unconventional ideas?",
 
         "Do you enjoy working with different mediums such as paints, clay, or digital tools?",
 
-        "How well do you handle constructive criticism and feedback on your artistic work?",
+        "Do you handle constructive criticism and feedback on your artistic work well?",
 
         "Are you motivated by the process of creating art rather than the end result?",
 
@@ -57,13 +57,13 @@ def run_personality_test():
 
         "Are you interested in exploring the nature of knowledge and reality?",
 
-        "How comfortable are you with abstract and complex philosophical concepts?",
+        "Are you comfortable with abstract and complex philosophical concepts?",
 
         "Do you enjoy engaging in debates and discussions about moral and ethical dilemmas?",
 
         "Are you fascinated by the study of human existence and the meaning of life?",
 
-        "How well do you critically analyze and evaluate arguments and ideas?",
+        "do you critically analyze and evaluate arguments and ideas well?",
 
         "Do you enjoy reading philosophical texts and exploring different philosophical traditions?"
 
